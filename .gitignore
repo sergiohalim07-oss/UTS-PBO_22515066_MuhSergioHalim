@@ -1,0 +1,9 @@
+# hasil kompilasi
+*.class
+out/
+bin/
+
+# file IDE
+.idea/
+.vscode/
+*.iml
